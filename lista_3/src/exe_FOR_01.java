@@ -13,7 +13,7 @@ public class exe_FOR_01 {
         num = entrada.nextInt();
 
         //Formulando a tabuada
-        for (int i = 1; i < 11; i++){
+        for (int i = 1; i <= 10; i++){
             System.out.println(num + " " + " X " + " " + i + " " + " = " + i * num);
         }
     }
