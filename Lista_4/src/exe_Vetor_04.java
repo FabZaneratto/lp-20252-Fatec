@@ -35,7 +35,7 @@ public class exe_Vetor_04 {
             }
         }
 
-        entrada.close();
+
     }
 }
 

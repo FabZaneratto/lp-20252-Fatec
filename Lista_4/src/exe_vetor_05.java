@@ -34,7 +34,7 @@ public class exe_vetor_05 {
             System.out.println("Número não encontrado.");
         }
 
-        entrada.close();
+
     }
 }
 
