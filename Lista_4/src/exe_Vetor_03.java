@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class exe_Vetor_03 {
     public static void main(String[] args) {
+
          int[] vetor = new int[8];
          int posicaoMN = 0;
          int posicaoMA = 0;
@@ -29,8 +30,8 @@ public class exe_Vetor_03 {
                  posicaoMA = i;
              }
          }
-        System.out.println("Maior" + maior + " posição:"+ posicaoMA);
-        System.out.println("menor " + menor + " Posicção: "+ posicaoMN);
+        System.out.println("Maior: " + maior + " posição: "+ posicaoMA);
+        System.out.println("menor: " + menor + " Posicção: "+ posicaoMN);
 
     }
 }

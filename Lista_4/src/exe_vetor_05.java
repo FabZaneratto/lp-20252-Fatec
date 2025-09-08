@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class exe_vetor_05 {
     public static void main(String[] args) {
-        int[] vetor = new int[5];
+        int[] vetor = new int[15];
 
         Scanner entrada = new Scanner(System.in);
 
